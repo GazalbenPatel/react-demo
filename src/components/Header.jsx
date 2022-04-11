@@ -17,6 +17,7 @@ const Menu = props => {
                     <Nav.Link href="#"><small>Skill</small></Nav.Link>
                     <Nav.Link href="#"><small>Project</small></Nav.Link>
                     <Nav.Link href="#"><small>Experience</small></Nav.Link>
+                    <Nav.Link href="#"><small>Education</small></Nav.Link>
                     <Nav.Link href="#"><small>Contact</small></Nav.Link>
                     <Button variant="outline-success" size="sm" >Resume</Button>
                 </Nav>
